@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="left">
+  <p><a href="https://www.linkedin.com/in/danielhernandezdiaz/"><img alt="LinkedIn @danielhernandezdiaz" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
+</div>
+- 🌱 I’m currently learning NodeJs, NestJs, ReactJs
+<br>
+<small><strong>❯❯ Some of my recent projects ↓</strong></small>
