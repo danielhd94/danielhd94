@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://visitor-badge.laobi.icu/badge?page_id=danielhd94" id="counter">
 
 ## <samp> :mailbox_with_mail: Contact </samp> ##
 
