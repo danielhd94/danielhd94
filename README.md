@@ -1,12 +1,12 @@
 <div style="background-color: #f5f5f5; padding: 40px; border-radius: 10px; text-align: center;">
   <h2 style="color: #333333;">Hi there 👋</h2>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/danielhd94/assets/dev/readme/LinkedIn-Banner.png" alt="Office workspace" style="width: 100%; border-radius: 10px;">
+  </div>
   <p style="font-size: 18px; line-height: 1.6; color: #555555;">
     With extensive programming experience, I've honed a robust skill set, specializing in Java and the MERN stack. Proficient in TypeScript and NestJS, I excel in developing captivating websites, fostering teamwork, and delivering high-quality results. Additionally, my expertise extends to .NET Core and JavaScript, enabling me to tackle diverse development challenges effectively. I've leveraged my knowledge in various personal projects, leveraging Spring Boot for innovative solutions
   </p>
-  <div style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/danielhd94/assets/dev/readme/code.gif" alt="Office workspace" style="width: 100%; border-radius: 10px;">
-    <p style="font-size: 14px; color: #888888; margin-top: 10px;"><em>Image: Office workspace</em></p>
-  </div>
 </div>
 
 
