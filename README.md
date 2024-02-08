@@ -1,18 +1,31 @@
 <div style="background-color: #f5f5f5; padding: 40px; border-radius: 10px; text-align: center;">
   <h2 style="color: #333333;">Hi there 👋</h2>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielhd94" id="counter">
   
   <div style="margin-top: 20px;">
     <img src="https://raw.githubusercontent.com/danielhd94/assets/dev/readme/LinkedIn-Banner.png" alt="Office workspace" style="width: 100%; border-radius: 10px;">
   </div>
-  <p style="font-size: 18px; line-height: 1.6; color: #555555;">
-    With extensive programming experience, I've honed a robust skill set, specializing in Java and the MERN stack. Proficient in TypeScript and NestJS, I excel in developing captivating websites, fostering teamwork, and delivering high-quality results. Additionally, my expertise extends to .NET Core and JavaScript, enabling me to tackle diverse development challenges effectively. I've leveraged my knowledge in various personal projects, leveraging Spring Boot for innovative solutions
-  </p>
 </div>
 
+```javascript
+const daniel = {
+  name: "Daniel Hernández Díaz",
+  title: "Innovative Full Stack Developer",
+  contact: {
+    phone: "(+52) 663 108 4697",
+    email: "danielhd94@hotmail.com",
+    linkedin: "https://www.linkedin.com/in/danielhernandezdiaz/",
+    location: "Tijuana, Baja California, Mexico",
+  },
+  skills: {
+    advanced: ["Java", "Spring Boot", ".NET Core", "JavaScript"],
+    intermediate: ["MERN", "TypeScript", "NestJS"],
+    basic: ["Apollo GraphQL", "TanStack Query", "Jest", "Amazon S3"],
+  },
+  about: "With over 3 years of programming experience, I've built a strong foundation, dedicating 2 years to Java and the remainder focused on the MERN stack. My expertise spans TypeScript and NestJS, enabling me to excel in crafting compelling websites, collaborating effectively in teams, and delivering with excellence. Furthermore, my versatility encompasses .NET Core and JavaScript skills, empowering me to tackle a wide spectrum of development challenges. I've also applied my knowledge in personal projects utilizing Spring Boot."
+}
+```
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielhd94" id="counter">
-</div>
 
 ## <samp> Skills </samp> ##
 
