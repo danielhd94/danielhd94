@@ -22,7 +22,7 @@ const daniel = {
     intermediate: ["MERN", "TypeScript", "NestJS"],
     basic: ["Apollo GraphQL", "TanStack Query", "Jest", "Amazon S3"],
   },
-  about: "With over 3 years of programming experience, I've built a strong foundation, dedicating 2 years to Java and the remainder focused on the MERN stack. My expertise spans TypeScript and NestJS, enabling me to excel in crafting compelling websites, collaborating effectively in teams, and delivering with excellence. Furthermore, my versatility encompasses .NET Core and JavaScript skills, empowering me to tackle a wide spectrum of development challenges. I've also applied my knowledge in personal projects utilizing Spring Boot."
+  about: "With over 3 years of experience as a programmer, my primary focus lies in Java and Spring Boot, where I have built a strong skill set. Additionally, I have experience in C# and .NET Core. My specialization includes NestJS, TypeScript, MongoDB, ExpressJS, ReactJS, and NodeJS, enabling me to develop full-stack web applications and collaborate effectively in cross-functional teams."
 }
 ```
 
