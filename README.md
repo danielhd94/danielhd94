@@ -1,81 +1,106 @@
-<div style="background-color: #f5f5f5; padding: 40px; border-radius: 10px; text-align: center;">
-  <h2 style="color: #333333;">Hi there 👋</h2>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=danielhd94" id="counter">
+<div align="center">
+  <h1>Daniel Hernández Díaz</h1>
+  <h3>Senior Full Stack Developer | Java & Spring Boot Specialist</h3>
   
-  <div style="margin-top: 20px;">
-    <img src="https://raw.githubusercontent.com/danielhd94/assets/dev/readme/LinkedIn-Banner.png" alt="Office workspace" style="width: 100%; border-radius: 10px;">
-  </div>
+  [![Visits](https://visitor-badge.laobi.icu/badge?page_id=danielhd94)](https://github.com/danielhd94)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielhernandezdiaz/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:danielhd94@hotmail.com)
 </div>
 
-```javascript
-const daniel = {
-  name: "Daniel Hernández Díaz",
-  title: "Innovative Full Stack Developer",
-  contact: {
-    phone: "(+52) 663 108 4697",
-    email: "danielhd94@hotmail.com",
-    linkedin: "https://www.linkedin.com/in/danielhernandezdiaz/",
-    location: "Tijuana, Baja California, Mexico",
-  },
-  skills: {
-    advanced: ["Java", "Spring Boot", ".NET Core", "JavaScript"],
-    intermediate: ["MERN", "TypeScript", "NestJS"],
-    basic: ["Apollo GraphQL", "TanStack Query", "Jest", "Amazon S3"],
-  },
-  about: "With over 3 years of experience as a programmer, my primary focus lies in Java and Spring Boot, where I have built a strong skill set. Additionally, I have experience in C# and .NET Core. My specialization includes NestJS, TypeScript, MongoDB, ExpressJS, ReactJS, and NodeJS, enabling me to develop full-stack web applications and collaborate effectively in cross-functional teams."
+## About Me
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  frameworks: string[];
+  tools: string[];
+  expertise: string[];
 }
+
+const daniel: Developer = {
+  name: "Daniel Hernández Díaz",
+  role: "Senior Full Stack Developer",
+  location: "Tijuana, Baja California, Mexico",
+  languages: ["Java", "TypeScript", "JavaScript", "C#"],
+  frameworks: [
+    "Spring Boot",
+    ".NET Core",
+    "NestJS",
+    "React",
+    "Express.js"
+  ],
+  tools: [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "MongoDB",
+    "PostgreSQL",
+    "Git"
+  ],
+  expertise: [
+    "Microservices Architecture",
+    "RESTful APIs",
+    "Cloud Computing",
+    "Test-Driven Development",
+    "Agile Methodologies"
+  ]
+};
 ```
 
-
-## <samp> Skills </samp> ##
+## 🛠️ Technical Expertise
 
 <div align="center">
-  <p>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt=".NET Core" src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" />
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+
+### Backend
+![Java](https://img.shields.io/badge/Java-Expert-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=spring-boot)
+![.NET Core](https://img.shields.io/badge/.NET_Core-Advanced-512BD4?style=for-the-badge&logo=.net)
+![NestJS](https://img.shields.io/badge/NestJS-Intermediate-E0234E?style=for-the-badge&logo=nestjs)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker)
+
 </div>
 
-## <samp> :mailbox_with_mail: Contact </samp> ##
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielhd94&show_icons=true&count_private=true&hide_border=true&theme=react" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielhd94&hide_border=true&theme=react" width="48%" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danielhd94&theme=nord&column=7&no-frame=true&no-bg=true" width="100%" alt="GitHub Trophies" />
+</div>
+
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danielhernandezdiaz/" target="_blank">
-    <img src="https://img.shields.io/badge/-Daniel%20Hern%C3%A1ndez%20D%C3%ADaz-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn de Daniel Hernández Díaz">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel_Hernández-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/danielhd94" target="_blank">
-    <img src="https://img.shields.io/github/followers/danielhd94?label=follow&style=social" alt="Follow Daniel Hernandez Diaz on GitHub">
+  <a href="mailto:danielhd94@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="mailto:danielhd94@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-danielhd94%40hotmail.com-red" alt="Email">
+  <a href="tel:+526631084697">
+    <img src="https://img.shields.io/badge/Phone-(+52)_663_108_4697-00AFF0?style=for-the-badge&logo=phone" alt="Phone" />
   </a>
 </div>
 
-
-## <samp> :octocat: GitHub Stats </samp> ##
+---
 
 <div align="center">
-  <a href="https://github.com/danielhd94">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhd94&theme=nightowl&show_icons=true" alt="DanielHD's GitHub Stats" width="50%"/>
-  </a>
-  <a href="https://github.com/danielhd94">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhd94&theme=nightowl&layout=compact" alt="DanielHD's Top Languages" width="42%"/>
-  </a>
+  <b>Open for collaboration and exciting opportunities!</b>
 </div>
-<br>
-
-<div align="center">
-  <a href="https://github.com/danielhd94">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=danielhd94&row=1&column=5&theme=dracula" alt="DanielHD's GitHub Trophy">
-  </a>
-</div>
-<br>
-
-<small><strong>❯❯ Some of my recent projects ↓</strong></small>
